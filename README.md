@@ -4,7 +4,7 @@
 AWS上にWebサーバー環境を構築し、ALB + Auto Scaling構成で公開しました。
 
 ## 構成図
-![構成図](architecture.png)
+![構成図](architecture.drawio.png)
 
 ## 使用技術
 - AWS（EC2, ALB, Auto Scaling, Route53）
